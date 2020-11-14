@@ -1,12 +1,3 @@
-
-
-------------
-
-
-<h3 align="center" style="margin-top: -42px;">
-    <span style="font-family: 'Lucida Console';">Activity</span>
-</h3>
-
 <h3 align="center" style="margin-top: -42px;">
   <span style="font-family: 'Lucida Console';">Languages</span>
 
