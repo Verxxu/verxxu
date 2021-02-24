@@ -1,2 +1,2 @@
 ```lua
-moi
+print("moi")
