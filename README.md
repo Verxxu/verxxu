@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" font-weight="bold">
  MOI
 </p>
 
