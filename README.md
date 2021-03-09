@@ -1,12 +1,12 @@
 
-<p align="center" font-weight="bold">
+<p font-weight="bold">
  MOI
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verxxu&layout=compact&theme=dracula" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Verxxu&show_icons=true&theme=dracula" />
 </p>
